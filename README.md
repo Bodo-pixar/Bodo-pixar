@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bodo-pixar
 - 👀 I’m interested in excellence
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on a growth facilitating project
 - 📫 How to reach me adaezeemejor@yahoo.com
 
